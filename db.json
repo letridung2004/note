@@ -2,7 +2,7 @@
   "notes": [
     {
       "id": 1,
-      "title": "Họp nhóm",
+      "title": "Tham gia học tập",
       "content": "Chuẩn bị bài thuyết trình cho buổi họp nhóm thứ Hai.",
       "priority": 2,
       "createdAt": "2024-04-01T10:00:00.000Z",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "Mua sắm",
+      "title": "Đi siêu thị",
       "content": "Mua sữa, bánh mì, và rau củ ở siêu thị.",
       "priority": 3,
       "createdAt": "2024-04-02T09:30:00.000Z",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "title": "Công việc backend",
+      "title": "Công việc sửa lỗi",
       "content": "Fix lỗi API và tối ưu cơ sở dữ liệu.",
       "priority": 1,
       "createdAt": "2024-04-03T14:15:00.000Z",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "title": "Lịch hẹn nha sĩ",
+      "title": "Lịch hẹn bác sĩ",
       "content": "Khám răng lúc 3h chiều ngày 5/4.",
       "priority": 2,
       "createdAt": "2024-04-04T11:00:00.000Z",
